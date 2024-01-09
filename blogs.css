@@ -1,0 +1,83 @@
+.leader{
+    height: 400px;
+    font-weight: bolder;
+    font-size: 40px;
+    text-decoration: overline;
+    text-align: center;
+    background-color: bisque;
+    background-image: url('pngwing.com\ \(2\).png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    padding: 9px;
+    margin: 0;
+}
+
+.peader{
+    background-color: bisque;
+    height: 150px;
+    /* width: 100%; */
+    padding:10px;
+    text-align: justify;
+    font-size: larger;
+    /* background-image: url('../styles/pngwing.com\ \(1\).png'); */
+    background-size: contain;
+
+}
+
+.keader{
+    height: 400px;
+    background-image: url('pngwing.com\ \(1\).png');
+    background-color: bisque;
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position: center;padding: 50px;
+}
+    
+    
+
+*{
+    margin: 0px;
+}
+#roro{
+    text-align: center;
+    background-color: bisque; 
+}
+
+.neona{
+    background-color: bisque;
+    height: 400px;
+    /* width: 400px; */
+    padding: 50px;
+    margin: 0;
+
+
+}
+
+.rolex{
+    background-color: bisque;
+    border: none;
+}
+#bexon{
+   background-color:aquamarine;
+   
+   border-radius: 5px;
+   /* color: white; */
+   /* text-align: center; */
+ 
+   font-size: 16px;
+   padding: 3px 5px;
+   margin: 4px 2px;
+  
+}
+    
+background-color: #04AA6D;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
